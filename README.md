@@ -1,6 +1,7 @@
 # minipos
 
 A new Flutter project.
+Under development by jber
 
 ## Getting Started
 
